@@ -23,7 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-package.json
-.oxlintrc.json
-vite.config.js
 dist.zip
